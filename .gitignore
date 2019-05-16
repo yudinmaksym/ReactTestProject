@@ -1,0 +1,7 @@
+.idea/
+package-lock.json
+node_modules
+dist/
+compiled/
+*.log
+scripts/compiled_env.json

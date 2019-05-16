@@ -1,0 +1,7 @@
+##### Build configuration #####
+ENTRY_PATH=./src/index.jsx
+ENTRY_FOLDER=src
+OUTPUT_PATH=dist
+INDEX_HTML_PATH=./src/index.html
+
+URL=http://localhost:3000
